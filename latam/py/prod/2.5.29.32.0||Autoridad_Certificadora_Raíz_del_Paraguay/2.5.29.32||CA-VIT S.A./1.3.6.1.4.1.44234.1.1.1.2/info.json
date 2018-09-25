@@ -1,0 +1,16 @@
+[ {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.2",
+  "caName" : "CA-VIT S.A.",
+  "relativePath" : "latam/py/prod/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.2",
+  "pemFiles" : [ {
+    "relativePath" : "latam/py/prod/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "latam/py/prod/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./cavit_efirma.pem",
+    "md5" : "Ds6jKDUuU3xXlhiccSfe1Q=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "latam/py/prod/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.2/eFirma_PF.groovy",
+    "md5" : "piksyd6zeghOxfc1HWC54w=="
+  }
+} ]

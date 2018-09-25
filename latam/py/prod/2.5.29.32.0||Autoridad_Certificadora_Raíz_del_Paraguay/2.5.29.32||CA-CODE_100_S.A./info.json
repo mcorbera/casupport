@@ -1,0 +1,16 @@
+[ {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.6",
+  "caName" : "CA-CODE_100_S.A.",
+  "relativePath" : "latam/py/prod/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-CODE_100_S.A./1.3.6.1.4.1.44234.1.1.1.6",
+  "pemFiles" : [ {
+    "relativePath" : "latam/py/prod/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "latam/py/prod/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-CODE_100_S.A./code_100.pem",
+    "md5" : "Gz9gJwpADAY11FvONclbFg=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "latam/py/prod/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-CODE_100_S.A./1.3.6.1.4.1.44234.1.1.1.6/Code100_persona_fisica.groovy",
+    "md5" : "HmBEoa/pNCtkw19RGIPXYw=="
+  }
+} ]

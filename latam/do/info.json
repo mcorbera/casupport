@@ -1,0 +1,42 @@
+[ {
+  "policyId" : "1.3.6.1.4.1.27395.6.2.4",
+  "caName" : "AVANSI_CERTIFICADOS_DIGITALES",
+  "relativePath" : "latam/do/prod/1.3.6.1.4.1.27395.5.1||AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.6.2.4",
+  "pemFiles" : [ {
+    "relativePath" : "latam/do/prod/1.3.6.1.4.1.27395.5.1||AVANSI_CERTIFICACION/avansi_root.pem",
+    "md5" : "Nqq9S1xf9KGnLxvI/oIB5g=="
+  }, {
+    "relativePath" : "latam/do/prod/1.3.6.1.4.1.27395.5.1||AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||AVANSI_CERTIFICADOS_DIGITALES/avansi_subca.pem",
+    "md5" : "cAcl05kjN1uS7WYrl8J2jA=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.27395.6.2.1",
+  "caName" : "TEST_AVANSI_CERTIFICADOS_DIGITALES",
+  "relativePath" : "latam/do/test/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.6.2.1",
+  "pemFiles" : [ {
+    "relativePath" : "latam/do/test/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION.pem",
+    "md5" : "l/umYK284G4lSRBJa5ZnPw=="
+  }, {
+    "relativePath" : "latam/do/test/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES.pem",
+    "md5" : "xFX81DgMBaKqawTLJ/COmw=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "latam/do/test/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.6.2.1/test.groovy",
+    "md5" : "z/Imm32fWmPYgGewoz2THg=="
+  }
+}, {
+  "policyId" : "1.3.6.1.4.1.27395.6.2.4",
+  "caName" : "TEST_AVANSI_CERTIFICADOS_DIGITALES",
+  "relativePath" : "latam/do/test/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.6.2.4",
+  "pemFiles" : [ {
+    "relativePath" : "latam/do/test/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION.pem",
+    "md5" : "l/umYK284G4lSRBJa5ZnPw=="
+  }, {
+    "relativePath" : "latam/do/test/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES.pem",
+    "md5" : "xFX81DgMBaKqawTLJ/COmw=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "latam/do/test/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.6.2.4/test.groovy",
+    "md5" : "z/Imm32fWmPYgGewoz2THg=="
+  }
+} ]
