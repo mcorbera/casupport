@@ -1,0 +1,16 @@
+[ {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.2",
+  "caName" : "CA-VIT_TEST_S.A.",
+  "relativePath" : "test/latam/py/2.5.29.32.0++Autoridad_Certificadora_Raiz_del_Paraguay_Test_eFirma/2.5.29.32++CA-VIT_TEST_S.A./1.3.6.1.4.1.44234.1.1.1.2",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/py/2.5.29.32.0++Autoridad_Certificadora_Raiz_del_Paraguay_Test_eFirma/py_test_raiz_efirma.pem",
+    "md5" : "BmzCWuNJGeXAPe3Q5Hau3Q=="
+  }, {
+    "relativePath" : "test/latam/py/2.5.29.32.0++Autoridad_Certificadora_Raiz_del_Paraguay_Test_eFirma/2.5.29.32++CA-VIT_TEST_S.A./efirma_ca_test.pem",
+    "md5" : "fwDOYEUbWYGg0vAFoVCu/w=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "test/latam/py/2.5.29.32.0++Autoridad_Certificadora_Raiz_del_Paraguay_Test_eFirma/2.5.29.32++CA-VIT_TEST_S.A./1.3.6.1.4.1.44234.1.1.1.2/eFirma_PF.groovy",
+    "md5" : "hQpP+iGmQYkNiwde41tayg=="
+  }
+} ]
