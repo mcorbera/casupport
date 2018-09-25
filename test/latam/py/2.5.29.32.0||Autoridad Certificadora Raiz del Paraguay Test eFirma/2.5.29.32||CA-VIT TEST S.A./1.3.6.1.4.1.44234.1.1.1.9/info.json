@@ -1,0 +1,12 @@
+[ {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.9",
+  "caName" : "CA-VIT TEST S.A.",
+  "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.9",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/py_test_raiz_efirma.pem",
+    "md5" : "BmzCWuNJGeXAPe3Q5Hau3Q=="
+  }, {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./efirma_ca_test.pem",
+    "md5" : "fwDOYEUbWYGg0vAFoVCu/w=="
+  } ]
+} ]

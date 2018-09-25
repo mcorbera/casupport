@@ -1,0 +1,256 @@
+[ {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.6",
+  "caName" : "CA-CODE_100_S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-CODE_100_S.A./1.3.6.1.4.1.44234.1.1.1.6",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-CODE_100_S.A./code_100.pem",
+    "md5" : "Gz9gJwpADAY11FvONclbFg=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-CODE_100_S.A./1.3.6.1.4.1.44234.1.1.1.6/Code100_persona_fisica.groovy",
+    "md5" : "HmBEoa/pNCtkw19RGIPXYw=="
+  }
+}, {
+  "policyId" : "1.3.6.1.4.1.48315.1.1.1.6.3.1",
+  "caName" : "CA-DOCUMENTA_S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-DOCUMENTA_S.A./1.3.6.1.4.1.48315.1.1.1.6.3.1",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-DOCUMENTA_S.A./2.5.29.32||CA-DOCUMENTA_S.A..pem",
+    "md5" : "jzA1aufBIgdBIaJoDrGcVA=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.48315.1.1.1.6.2.1",
+  "caName" : "CA-DOCUMENTA_S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-DOCUMENTA_S.A./1.3.6.1.4.1.48315.1.1.1.6.2.1",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-DOCUMENTA_S.A./2.5.29.32||CA-DOCUMENTA_S.A..pem",
+    "md5" : "jzA1aufBIgdBIaJoDrGcVA=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.48315.1.1.1.6.1.1",
+  "caName" : "CA-DOCUMENTA_S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-DOCUMENTA_S.A./1.3.6.1.4.1.48315.1.1.1.6.1.1",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-DOCUMENTA_S.A./2.5.29.32||CA-DOCUMENTA_S.A..pem",
+    "md5" : "jzA1aufBIgdBIaJoDrGcVA=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-DOCUMENTA_S.A./1.3.6.1.4.1.48315.1.1.1.6.1.1/documenta_persona_fisica.groovy",
+    "md5" : "isR2GexcoVgJlHzuJpfBVw=="
+  }
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.8",
+  "caName" : "CA-VIT S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.8",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./cavit_efirma.pem",
+    "md5" : "Ds6jKDUuU3xXlhiccSfe1Q=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.9",
+  "caName" : "CA-VIT S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.9",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./cavit_efirma.pem",
+    "md5" : "Ds6jKDUuU3xXlhiccSfe1Q=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.7",
+  "caName" : "CA-VIT S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.7",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./cavit_efirma.pem",
+    "md5" : "Ds6jKDUuU3xXlhiccSfe1Q=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.7/eFirma_PF2.groovy",
+    "md5" : "6w+O6QVWZxTP4zFnNoE1tQ=="
+  }
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.2",
+  "caName" : "CA-VIT S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.2",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./cavit_efirma.pem",
+    "md5" : "Ds6jKDUuU3xXlhiccSfe1Q=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.2/eFirma_PF.groovy",
+    "md5" : "piksyd6zeghOxfc1HWC54w=="
+  }
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.5",
+  "caName" : "CA-VIT S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.5",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./cavit_efirma.pem",
+    "md5" : "Ds6jKDUuU3xXlhiccSfe1Q=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.4",
+  "caName" : "CA-VIT S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.4",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./cavit_efirma.pem",
+    "md5" : "Ds6jKDUuU3xXlhiccSfe1Q=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.3",
+  "caName" : "CA-VIT S.A.",
+  "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./1.3.6.1.4.1.44234.1.1.1.3",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay.pem",
+    "md5" : "NmdqrUOxipudqJL8MKOlpA=="
+  }, {
+    "relativePath" : "prod/latam/py/2.5.29.32.0||Autoridad_Certificadora_Raíz_del_Paraguay/2.5.29.32||CA-VIT S.A./cavit_efirma.pem",
+    "md5" : "Ds6jKDUuU3xXlhiccSfe1Q=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.27395.6.2.4",
+  "caName" : "AVANSI_CERTIFICADOS_DIGITALES",
+  "relativePath" : "prod/latam/do/1.3.6.1.4.1.27395.5.1||AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.6.2.4",
+  "pemFiles" : [ {
+    "relativePath" : "prod/latam/do/1.3.6.1.4.1.27395.5.1||AVANSI_CERTIFICACION/avansi_root.pem",
+    "md5" : "Nqq9S1xf9KGnLxvI/oIB5g=="
+  }, {
+    "relativePath" : "prod/latam/do/1.3.6.1.4.1.27395.5.1||AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||AVANSI_CERTIFICADOS_DIGITALES/avansi_subca.pem",
+    "md5" : "cAcl05kjN1uS7WYrl8J2jA=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.8",
+  "caName" : "CA-VIT TEST S.A.",
+  "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.8",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/py_test_raiz_efirma.pem",
+    "md5" : "BmzCWuNJGeXAPe3Q5Hau3Q=="
+  }, {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./efirma_ca_test.pem",
+    "md5" : "fwDOYEUbWYGg0vAFoVCu/w=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.9",
+  "caName" : "CA-VIT TEST S.A.",
+  "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.9",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/py_test_raiz_efirma.pem",
+    "md5" : "BmzCWuNJGeXAPe3Q5Hau3Q=="
+  }, {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./efirma_ca_test.pem",
+    "md5" : "fwDOYEUbWYGg0vAFoVCu/w=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.7",
+  "caName" : "CA-VIT TEST S.A.",
+  "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.7",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/py_test_raiz_efirma.pem",
+    "md5" : "BmzCWuNJGeXAPe3Q5Hau3Q=="
+  }, {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./efirma_ca_test.pem",
+    "md5" : "fwDOYEUbWYGg0vAFoVCu/w=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.7/eFirma_PF2.groovy",
+    "md5" : "JDKMPryyOXV5/7xzuQWmjQ=="
+  }
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.2",
+  "caName" : "CA-VIT TEST S.A.",
+  "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.2",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/py_test_raiz_efirma.pem",
+    "md5" : "BmzCWuNJGeXAPe3Q5Hau3Q=="
+  }, {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./efirma_ca_test.pem",
+    "md5" : "fwDOYEUbWYGg0vAFoVCu/w=="
+  } ],
+  "groovyFile" : {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.2/eFirma_PF.groovy",
+    "md5" : "hQpP+iGmQYkNiwde41tayg=="
+  }
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.5",
+  "caName" : "CA-VIT TEST S.A.",
+  "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.5",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/py_test_raiz_efirma.pem",
+    "md5" : "BmzCWuNJGeXAPe3Q5Hau3Q=="
+  }, {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./efirma_ca_test.pem",
+    "md5" : "fwDOYEUbWYGg0vAFoVCu/w=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.4",
+  "caName" : "CA-VIT TEST S.A.",
+  "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.4",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/py_test_raiz_efirma.pem",
+    "md5" : "BmzCWuNJGeXAPe3Q5Hau3Q=="
+  }, {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./efirma_ca_test.pem",
+    "md5" : "fwDOYEUbWYGg0vAFoVCu/w=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.44234.1.1.1.3",
+  "caName" : "CA-VIT TEST S.A.",
+  "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./1.3.6.1.4.1.44234.1.1.1.3",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/py_test_raiz_efirma.pem",
+    "md5" : "BmzCWuNJGeXAPe3Q5Hau3Q=="
+  }, {
+    "relativePath" : "test/latam/py/2.5.29.32.0||Autoridad Certificadora Raiz del Paraguay Test eFirma/2.5.29.32||CA-VIT TEST S.A./efirma_ca_test.pem",
+    "md5" : "fwDOYEUbWYGg0vAFoVCu/w=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.27395.6.2.1",
+  "caName" : "TEST_AVANSI_CERTIFICADOS_DIGITALES",
+  "relativePath" : "test/latam/do/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.6.2.1",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/do/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION.pem",
+    "md5" : "l/umYK284G4lSRBJa5ZnPw=="
+  }, {
+    "relativePath" : "test/latam/do/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES.pem",
+    "md5" : "xFX81DgMBaKqawTLJ/COmw=="
+  } ]
+}, {
+  "policyId" : "1.3.6.1.4.1.27395.6.2.4",
+  "caName" : "TEST_AVANSI_CERTIFICADOS_DIGITALES",
+  "relativePath" : "test/latam/do/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.6.2.4",
+  "pemFiles" : [ {
+    "relativePath" : "test/latam/do/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION.pem",
+    "md5" : "l/umYK284G4lSRBJa5ZnPw=="
+  }, {
+    "relativePath" : "test/latam/do/1.3.6.1.4.1.27395.5.1||TEST_AVANSI_CERTIFICACION/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES/1.3.6.1.4.1.27395.5.2||TEST_AVANSI_CERTIFICADOS_DIGITALES.pem",
+    "md5" : "xFX81DgMBaKqawTLJ/COmw=="
+  } ]
+} ]
